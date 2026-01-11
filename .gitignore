@@ -2,7 +2,9 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
+node_modules/
 /node_modules
+frontend/node_modules/
 /.pnp
 .pnp.*
 .yarn/*
@@ -15,6 +17,7 @@
 /coverage
 
 # next.js
+.next/
 /.next/
 /out/
 
@@ -24,6 +27,11 @@
 # misc
 .DS_Store
 *.pem
+
+# Logs
+*.log
+logs/
+npm-debug.log*
 
 # debug
 npm-debug.log*
