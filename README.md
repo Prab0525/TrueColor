@@ -461,16 +461,6 @@ Feel free to:
 - Submit pull requests
 - Add more makeup brands to the database
 
-## 📝 License
-
-MIT License
-
-## 👨‍💻 Author
-
-Built for TrueShade - AI-Powered Makeup Shade Matching
-
-**Contact**: [Your GitHub/Email]
-
 ---
 
 **Tech Stack**: Python 3.12 | FastAPI | MediaPipe | OpenCV | scikit-learn | Supabase  
